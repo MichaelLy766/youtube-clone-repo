@@ -1,1 +1,1 @@
-Deploy on site: https://michaelly766.github.io/youtube-clone-repo/
+Deployed on site: https://michaelly766.github.io/youtube-clone-repo/
