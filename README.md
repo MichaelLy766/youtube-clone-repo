@@ -1,1 +1,1 @@
-Deployed on site: https://michaelly766.github.io/youtube-clone-repo/
+Link to website: https://michael-ly.net
